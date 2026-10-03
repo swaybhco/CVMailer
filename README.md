@@ -1,6 +1,6 @@
 # CV Mailer
 
-A small Windows app that sends your CV to a list of email addresses, one separate email per person, and shows who replied.
+A small Windows app that sends your CV to a list of email addresses, one separate email per person, and shows who replied and whether the answer looks good or bad.
 
 Made by Haas7n.
 
